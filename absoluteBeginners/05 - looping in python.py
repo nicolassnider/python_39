@@ -1,0 +1,1 @@
+message = input("tell me something")
